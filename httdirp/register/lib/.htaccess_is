@@ -1,0 +1,13 @@
+AuthType Basic
+AuthName "Passwortgeschützt"
+AuthUserFile /users/rittershaus13/www/secure/.htpasswd
+Require valid-user
+
+#IP Sperre
+order allow,deny
+allow from 10.56.182.100
+Deny from all
+Satisfy Any
+
+#DirectoryIndex
+DirectoryIndex index.php

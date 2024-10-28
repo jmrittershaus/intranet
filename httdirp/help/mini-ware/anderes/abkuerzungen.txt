@@ -1,0 +1,31 @@
+NUL 	null Nullzeichen, leeres Zeichen
+SOH 	start of heading Anfang des Kopfes
+STX 	start of text Anfang des Textes
+ETX 	end of text Ende des Textes
+EOT 	end of transmission Ende der Ubertragung 
+ENQ 	enquiry Stationsaufforderung
+ACK 	acknowledge Positive Ruckmeldung 
+BEL 	bell Klingelzeichen
+BS 	backspace Ruckw  artsschritt
+HT 	horizontal tabulation Horizontal-Tabulator
+LF 	line feed Zeilenvorschub
+VT 	vertical tabulation Vertikal-Tabulator
+FF 	form feed Seitenvorschub
+CR 	carriage return Wagenrucklauf 
+SO 	shift out Dauerumschaltung
+SI 	shift in Ruckschaltung 
+DLE 	data link escape Datenubertragungsumschaltung 
+DCi 	device control Ger¨atesteuerung
+NAK 	negative acknowledge Negative Ruckmeldung 
+SYN 	synchronous idle Synchronisierung
+ETB 	end of transmission block Ende des Datenubertragungsblockes 
+CAN 	cancel Ungultig 
+EM 	end of medium Ende der Aufzeichnung
+SUB 	substitute character Substitution
+ESC 	escape Fluchtzeichen (Umschaltung)
+FS 	file separator Hauptgruppen- bzw. Dateitrennung
+GS 	group separator Gruppentrennung
+RS 	record separator Untergruppen- bzw. Satztrennung
+US 	unit separator Untergruppentrennung
+SP 	space Leerzeichen
+DEL 	delete Loeschen eines Zeichens

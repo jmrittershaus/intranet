@@ -1,0 +1,2 @@
+<br>
+<input type="button" value="Interface laden.." onClick="window.location.href='../interface/interface.php?post=login_jet'">
